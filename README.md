@@ -1,2 +1,2 @@
-# NOTI-.-Website
+# NOTI.app
 Official NOTI Platform
